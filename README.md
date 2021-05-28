@@ -1,4 +1,4 @@
-Implemented features
+Implemented features:
 
 -getting started
 
